@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d600ed0-f244-4e27-9f96-dd969258ba56" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Kotlin-basics-030326/src/Question1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin-basics-030326/src/Question10.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin-basics-030326/src/Question2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin-basics-030326/src/Question3.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin-basics-030326/src/Question4.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin-basics-030326/src/Question5.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin-basics-030326/src/Question6.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin-basics-030326/src/Question7.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin-basics-030326/src/Question8.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin-basics-030326/src/Question9.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
-    </list>
+    <list default="true" id="6d600ed0-f244-4e27-9f96-dd969258ba56" name="Changes" comment="changes and lecture on 17-03-2026" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +19,7 @@
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/practical2" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -73,6 +61,66 @@
       <option name="presentableId" value="Default" />
       <updated>1773745490055</updated>
     </task>
+    <task id="LOCAL-00001" summary="changes and lecture on 17-03-2026">
+      <option name="closed" value="true" />
+      <created>1773750603526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773750603526</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changes and lecture on 17-03-2026">
+      <option name="closed" value="true" />
+      <created>1773750657951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773750657951</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changes and lecture on 17-03-2026">
+      <option name="closed" value="true" />
+      <created>1773750681393</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773750681393</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changes and lecture on 17-03-2026">
+      <option name="closed" value="true" />
+      <created>1773750708788</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773750708788</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="17-03-2026" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes and lecture on 17-03-2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes and lecture on 17-03-2026" />
   </component>
 </project>
